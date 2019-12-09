@@ -3,6 +3,8 @@ import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
 import { Layout, Header, Nav } from './components'
 import { Home } from './pages/home'
 import { LongText } from './pages/long-text'
+import { Table } from './pages/table'
+import { JsApp } from './pages/js-app'
 
 export function App() {
   return (
@@ -14,6 +16,8 @@ export function App() {
         <Switch>
           <Route exact path="/"><Home /></Route>
           <Route path="/long-text"><LongText /></Route>
+          <Route path="/tableau"><Table /></Route>
+          <Route path="/js-app"><JsApp /></Route>
         </Switch>
       </Layout>
     </Router>
