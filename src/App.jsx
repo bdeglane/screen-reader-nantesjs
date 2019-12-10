@@ -5,6 +5,7 @@ import { Home } from './pages/home'
 import { LongText } from './pages/long-text'
 import { Table } from './pages/table'
 import { JsApp } from './pages/js-app'
+import { Form } from './pages/form'
 
 export function App() {
   return (
@@ -17,6 +18,7 @@ export function App() {
           <Route exact path="/"><Home /></Route>
           <Route path="/long-text"><LongText /></Route>
           <Route path="/tableau"><Table /></Route>
+          <Route path="/form"><Form /></Route>
           <Route path="/js-app"><JsApp /></Route>
         </Switch>
       </Layout>

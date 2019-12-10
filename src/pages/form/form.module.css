@@ -1,0 +1,14 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+}
+
+.formGroup {
+    margin: 1rem 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.formGroup:first-child {
+}
