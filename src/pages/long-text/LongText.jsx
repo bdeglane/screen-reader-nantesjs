@@ -1,8 +1,9 @@
 import React from 'react'
+import { Content } from '../../components'
 
 export function LongText() {
   return (
-    <section>
+    <Content>
       <h1>Lecteur d'écran</h1>
       <p>
         Un lecteur d'écran (également appelé revue d'écran) est un logiciel d’assistance technique destiné aux
@@ -40,6 +41,6 @@ export function LongText() {
         déficientes
         visuelles maîtrise le braille, d’autre part parce que les afficheurs braille sont des dispositifs coûteux.
       </p>
-    </section>
+    </Content>
   )
 }

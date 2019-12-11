@@ -1,3 +1,6 @@
 .header {
     box-shadow: 0 0 5px rgba(0, 0, 0, .5);
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
 }

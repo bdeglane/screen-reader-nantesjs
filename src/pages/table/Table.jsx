@@ -1,13 +1,14 @@
 import React from 'react'
+import { Content } from '../../components'
 
 export function Table() {
   return (
-    <section>
+    <Content>
       <table>
         <caption>
           Poster availability
         </caption>
       </table>
-    </section>
+    </Content>
   )
 }

@@ -1,6 +1,6 @@
 import React from 'react'
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
-import { Layout, Header, Nav } from './components'
+import { Layout, Header, Nav, Logo } from './components'
 import { Home } from './pages/home'
 import { LongText } from './pages/long-text'
 import { Table } from './pages/table'
@@ -12,6 +12,9 @@ export function App() {
     <Router>
       <Layout>
         <Header>
+          <a href="/" title="Page d'accueil">
+            <Logo />
+          </a>
           <Nav />
         </Header>
         <Switch>

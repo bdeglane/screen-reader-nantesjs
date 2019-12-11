@@ -1,4 +1,6 @@
 export { Header } from './header'
-export { Layout } from './layout'
+export { Layout, Content } from './layout'
 export { Nav } from './nav'
 export { Input } from './form'
+export { Logo } from './logo'
+export { Spinner } from './icon'
