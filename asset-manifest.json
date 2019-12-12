@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/screen-reader-nantesjs/static/css/main.d4317465.chunk.css",
+    "main.js": "/screen-reader-nantesjs/static/js/main.809b04a7.chunk.js",
+    "main.js.map": "/screen-reader-nantesjs/static/js/main.809b04a7.chunk.js.map",
+    "runtime-main.js": "/screen-reader-nantesjs/static/js/runtime-main.b62c789a.js",
+    "runtime-main.js.map": "/screen-reader-nantesjs/static/js/runtime-main.b62c789a.js.map",
+    "static/js/2.09b5ac0b.chunk.js": "/screen-reader-nantesjs/static/js/2.09b5ac0b.chunk.js",
+    "static/js/2.09b5ac0b.chunk.js.map": "/screen-reader-nantesjs/static/js/2.09b5ac0b.chunk.js.map",
+    "index.html": "/screen-reader-nantesjs/index.html",
+    "precache-manifest.3322595e5a78f024bad788b2d1f4579b.js": "/screen-reader-nantesjs/precache-manifest.3322595e5a78f024bad788b2d1f4579b.js",
+    "service-worker.js": "/screen-reader-nantesjs/service-worker.js",
+    "static/css/main.d4317465.chunk.css.map": "/screen-reader-nantesjs/static/css/main.d4317465.chunk.css.map",
+    "static/js/2.09b5ac0b.chunk.js.LICENSE": "/screen-reader-nantesjs/static/js/2.09b5ac0b.chunk.js.LICENSE",
+    "static/media/logo.svg": "/screen-reader-nantesjs/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b62c789a.js",
+    "static/js/2.09b5ac0b.chunk.js",
+    "static/css/main.d4317465.chunk.css",
+    "static/js/main.809b04a7.chunk.js"
+  ]
+}
