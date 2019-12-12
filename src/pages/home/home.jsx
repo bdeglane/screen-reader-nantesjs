@@ -8,9 +8,7 @@ export function Home() {
       <header className={styles.AppHeader}>
         <img src={logo} className={styles.AppLogo} alt="logo" />
         <p>
-          Edit
-          <code>src/App.js</code>
-          and save to reload.
+          Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
           className={styles.AppLink}
