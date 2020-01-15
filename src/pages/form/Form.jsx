@@ -109,7 +109,7 @@ export function Form() {
                 </fieldset>
                 <input type="submit" value="Envoyer votre demande" aria-describedby="redirect-to-text" />
                 <p className="sr-only" id="redirect-to-text">
-                  Soumettre le formulaire redigirera vers la ressource "texte long"
+                  Soumettre le formulaire redirigera vers la ressource "texte long"
                 </p>
               </form>
             </section>
