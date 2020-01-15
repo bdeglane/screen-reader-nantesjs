@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e6083122ebafa5df0cece5195ff8b3d6",
+    "revision": "f23e34a3bff7d5f76585592f20aceb53",
     "url": "/screen-reader-nantesjs/index.html"
   },
   {
-    "revision": "92719436bacb114ec1ab",
+    "revision": "5f78a48ba9d34411abec",
     "url": "/screen-reader-nantesjs/static/css/main.d4317465.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/screen-reader-nantesjs/static/js/2.09b5ac0b.chunk.js.LICENSE"
   },
   {
-    "revision": "92719436bacb114ec1ab",
-    "url": "/screen-reader-nantesjs/static/js/main.809b04a7.chunk.js"
+    "revision": "5f78a48ba9d34411abec",
+    "url": "/screen-reader-nantesjs/static/js/main.202b012a.chunk.js"
   },
   {
     "revision": "ee1c5a8817e45d4af069",
