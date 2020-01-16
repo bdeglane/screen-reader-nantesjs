@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/screen-reader-nantesjs/static/css/main.d4317465.chunk.css",
-    "main.js": "/screen-reader-nantesjs/static/js/main.8bcbbaa7.chunk.js",
-    "main.js.map": "/screen-reader-nantesjs/static/js/main.8bcbbaa7.chunk.js.map",
+    "main.css": "/screen-reader-nantesjs/static/css/main.af6ed5ee.chunk.css",
+    "main.js": "/screen-reader-nantesjs/static/js/main.0417d478.chunk.js",
+    "main.js.map": "/screen-reader-nantesjs/static/js/main.0417d478.chunk.js.map",
     "runtime-main.js": "/screen-reader-nantesjs/static/js/runtime-main.b62c789a.js",
     "runtime-main.js.map": "/screen-reader-nantesjs/static/js/runtime-main.b62c789a.js.map",
-    "static/js/2.09b5ac0b.chunk.js": "/screen-reader-nantesjs/static/js/2.09b5ac0b.chunk.js",
-    "static/js/2.09b5ac0b.chunk.js.map": "/screen-reader-nantesjs/static/js/2.09b5ac0b.chunk.js.map",
+    "static/js/2.d868187e.chunk.js": "/screen-reader-nantesjs/static/js/2.d868187e.chunk.js",
+    "static/js/2.d868187e.chunk.js.map": "/screen-reader-nantesjs/static/js/2.d868187e.chunk.js.map",
     "index.html": "/screen-reader-nantesjs/index.html",
-    "precache-manifest.97e1905e0f9ecd63841ff73c66755214.js": "/screen-reader-nantesjs/precache-manifest.97e1905e0f9ecd63841ff73c66755214.js",
+    "precache-manifest.d9b698ff84fd246a1695e0a1a8cff503.js": "/screen-reader-nantesjs/precache-manifest.d9b698ff84fd246a1695e0a1a8cff503.js",
     "service-worker.js": "/screen-reader-nantesjs/service-worker.js",
-    "static/css/main.d4317465.chunk.css.map": "/screen-reader-nantesjs/static/css/main.d4317465.chunk.css.map",
-    "static/js/2.09b5ac0b.chunk.js.LICENSE": "/screen-reader-nantesjs/static/js/2.09b5ac0b.chunk.js.LICENSE",
+    "static/css/main.af6ed5ee.chunk.css.map": "/screen-reader-nantesjs/static/css/main.af6ed5ee.chunk.css.map",
+    "static/js/2.d868187e.chunk.js.LICENSE": "/screen-reader-nantesjs/static/js/2.d868187e.chunk.js.LICENSE",
+    "static/media/NVDA-Product-Box-small.png": "/screen-reader-nantesjs/static/media/NVDA-Product-Box-small.e57e2e8f.png",
     "static/media/logo.svg": "/screen-reader-nantesjs/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.b62c789a.js",
-    "static/js/2.09b5ac0b.chunk.js",
-    "static/css/main.d4317465.chunk.css",
-    "static/js/main.8bcbbaa7.chunk.js"
+    "static/js/2.d868187e.chunk.js",
+    "static/css/main.af6ed5ee.chunk.css",
+    "static/js/main.0417d478.chunk.js"
   ]
 }
