@@ -1,0 +1,11 @@
+.longText__img {
+    width: 25%;
+    margin: 1rem;
+    display: inline-block;
+    box-sizing: border-box;
+}
+
+.longText__img > img {
+    width: 100%;
+    margin: 0;
+}

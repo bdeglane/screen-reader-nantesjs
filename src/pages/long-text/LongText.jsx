@@ -1,5 +1,7 @@
 import React from 'react'
 import { Content } from '../../components'
+import styles from './long-text.module.css'
+import logoNvda from './NVDA-Product-Box-small.png'
 
 export function LongText() {
   return (
@@ -55,6 +57,12 @@ export function LongText() {
           visuelles maîtrise le braille, d’autre part parce que les afficheurs braille sont des dispositifs coûteux.
         </p>
         <h2 id="NVDA">NVDA</h2>
+        <img className={styles.longText__img} src={logoNvda} alt="" />
+        <img className={styles.longText__img} src={logoNvda} alt="Boîte produit NVDA" />
+        <figure className={styles.longText__img}>
+          <img src={logoNvda} alt="Boîte produit NVDA" />
+          <figcaption>Boîte produit NVDA</figcaption>
+        </figure>
         <h3 id="NVDA-histoire">Historique</h3>
         <p>
           Aveugle à l'âge de 15 ans, l'Australien Michael Curran prend conscience du coût important des lecteurs d'écran
