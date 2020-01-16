@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/screen-reader-nantesjs/precache-manifest.d9b698ff84fd246a1695e0a1a8cff503.js"
+  "/screen-reader-nantesjs/precache-manifest.a2c62bd8da729862800a845a0ea250fe.js"
 );
 
 self.addEventListener('message', (event) => {
