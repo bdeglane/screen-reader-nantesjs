@@ -60,8 +60,8 @@ export function LongText() {
         <img className={styles.longText__img} src={logoNvda} alt="" />
         <img className={styles.longText__img} src={logoNvda} alt="Boîte produit NVDA" />
         <figure className={styles.longText__img}>
-          <img src={logoNvda} alt="Boîte produit NVDA" />
-          <figcaption>Boîte produit NVDA</figcaption>
+          <img src={logoNvda} alt="Attribut ALT - Boîte produit NVDA" />
+          <figcaption>Balise figcaption - Boîte produit NVDA</figcaption>
         </figure>
         <h3 id="NVDA-histoire">Historique</h3>
         <p>
