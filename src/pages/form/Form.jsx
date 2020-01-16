@@ -31,6 +31,7 @@ export function Form() {
                 <Input type="text" id="surname" name="surname" placeholder="Nom" label="Nom" />
                 <Input type="text" id="name" name="name" placeholder="Prénom" label="Prénom" />
                 <Input type="text" id="id-input" name="name-input" placeholder="placeholder-input" label="label-input" />
+                <Input type="text" id="id-input" name="name-input" label="label-input" />
                 <Input type="number" id="age" name="age" label="Votre age" />
                 <Input type="email" id="email" name="email" placeholder="Email" label="Email" />
                 <Input type="text" id="phone" name="phone" placeholder="Téléphone" label="Téléphone" />
@@ -74,6 +75,7 @@ export function Form() {
                   <Input type="text" id="surname" name="surname" placeholder="Nom" label="Nom" />
                   <Input type="text" id="name" name="name" placeholder="Prénom" label="Prénom" />
                   <Input type="text" id="id-input" name="name-input" placeholder="placeholder-input" label="label-input" />
+                  <Input type="text" id="id-input" name="name-input" label="label-input" />
                   <Input type="number" id="age" name="age" label="Votre age" />
                 </fieldset>
                 <fieldset>

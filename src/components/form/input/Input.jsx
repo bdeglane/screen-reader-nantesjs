@@ -19,7 +19,7 @@ export function Input({ id, type, name, placeholder, label, ...props }) {
   return (
     <div className={styles.input}>
       <label htmlFor={id}>{label}</label>
-      <input type={type} name={name} placeholder={placeholder} id={id} {...props} />
+      <input type={type} name={name} placeholder={placeholder} id={id} aria-label={label} {...props} />
     </div>
   )
 }
