@@ -4,6 +4,8 @@
 
 Le “screen reader” ou lecteur d’écran est un logiciel d’assistance technique pour retranscrire par synthèse vocale ce qui est affiché sur l’écran. Pour gérer l’accessibilité d’une application, il est important d’utiliser cet outil et de comprendre les besoins de leurs utilisateurs.
 
+[slides](https://github.com/bdeglane/screen-reader-nantesjs/blob/master/screen-reader-nantes-js.pdf)
+
 [Application de démo](https://bdeglane.github.io/screen-reader-nantesjs/)
 
 ## Développement
